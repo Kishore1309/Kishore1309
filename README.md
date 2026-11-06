@@ -1,167 +1,229 @@
- <!-- ===================================================== -->
-<!-- KISHORE G | GITHUB PROFILE README -->
-<!-- Theme: Engineering Blue -->
-<!-- ===================================================== -->
+<!-- =====================================================
+     KISHORE G | PROFESSIONAL ENGINEERING PORTFOLIO
+     Design: Engineering Blue
+====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A35,50:123B70,100:168AAD&height=200&section=header&text=KISHORE%20G&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=MECHATRONICS%20ENGINEERING%20%7C%20ROBOTICS%20%7C%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A35,45:123B70,100:168AAD&height=210&section=header&text=KISHORE%20G&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=MECHATRONICS%20ENGINEERING%20%7C%20ROBOTICS%20%7C%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=61&animation=fadeIn" width="100%" alt="Kishore G - Mechatronics Engineering"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Mechatronics+Engineering+Undergraduate;Robotics+%26+Industrial+Automation;Embedded+Systems+%7C+Intelligent+Control;Bridging+Mechanical%2C+Electrical+%26+Software+Engineering" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Mechanical+Design+%2B+Electronics+%2B+Software;Engineering+Intelligent+Systems;Robotics+%7C+Embedded+Systems+%7C+Automation" alt="Engineering interests"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kishoregovindan913">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Kishore1309">
-    <img src="https://img.shields.io/badge/GitHub-Kishore1309-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:kishoreg763@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## PROFILE
+## 01. Engineering Profile
 
-I am a **Mechatronics Engineering undergraduate at Chennai Institute of Technology**, interested in developing intelligent engineering systems through the integration of mechanical design, electronics, embedded programming and software technologies.
+I am a **Mechatronics Engineering undergraduate at Chennai Institute of Technology**, interested in designing and developing intelligent engineering systems through the integration of mechanical engineering, electronics, control systems and software.
 
-My technical interests include robotics, industrial automation, embedded systems, intelligent control and engineering simulation.
+My work focuses on embedded systems, robotics, industrial automation, intelligent monitoring and engineering prototyping.
 
-I enjoy working across hardware and software to transform engineering concepts into functional prototypes and integrated systems.
+I enjoy approaching engineering problems from both hardware and software perspectives, from mechanical design and sensor integration to control logic and real-time visualization.
 
-| Profile | Details |
-|---|---|
-| Education | B.E. Mechatronics Engineering |
-| Institution | Chennai Institute of Technology |
-| Academic Performance | CGPA: 8.72 |
-| Additional Education | IIT Madras – BS Programme |
-| Location | Chennai, India |
-| Primary Interests | Robotics, Automation & Intelligent Systems |
+**Education:** B.E. Mechatronics Engineering  
+**Institution:** Chennai Institute of Technology  
+**CGPA:** 8.72
 
 ---
 
-## TECHNICAL EXPERTISE
+## 02. Engineering Philosophy
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Mechanical_Design-164B8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-Electronics-126E82?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/03-Control_Systems-164B8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/04-Embedded_Software-126E82?style=for-the-badge"/>
 </p>
 
-### Engineering Design & Simulation
+```mermaid
+flowchart TD
+    A["Mechanical Design"] --> E["MECHATRONICS"]
+    B["Electronics & Sensors"] --> E
+    C["Control Systems"] --> E
+    D["Embedded Software"] --> E
+    E --> F["Intelligent Engineering Systems"]
+
+    style E fill:#123B70,color:#fff,stroke:#58A6FF
+    style F fill:#164B8C,color:#fff,stroke:#58A6FF
+```
+
+My approach is to integrate engineering disciplines into functional systems rather than treat them as isolated technologies.
+
+---
+
+## 03. Technical Capabilities
+
+### Programming
 
 <p>
-  <img src="https://img.shields.io/badge/SolidWorks-Mechanical_Design-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creo-Parametric_CAD-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/MATLAB-Engineering_Computing-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-System_Simulation-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-Robotics_Simulation-4B9CD3?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="C, C++, Python and Java"/>
 </p>
 
 ### Robotics & Industrial Automation
 
 <p>
-  <img src="https://img.shields.io/badge/ROS_2-Robot_Operating_System-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLC-Industrial_Control-009999?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ladder_Logic-PLC_Programming-168AAD?style=flat-square" />
-  <img src="https://img.shields.io/badge/PID_Control-Process_Control-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-4B9CD3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PLC_Programming-009999?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ladder_Logic-1565C0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PID_Control-164B8C?style=flat-square"/>
 </p>
 
-### Embedded Systems & Communication
+### Mechanical Design & Simulation
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-  <img src="https://img.shields.io/badge/ESP32-Embedded_IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/CAN_Bus-Communication-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sensor_Integration-Embedded_Systems-168AAD?style=flat-square" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Creo_Parametric-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
 </p>
 
-### Development Tools
+### Embedded Systems & Electronics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CAN_Bus-126E82?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sensor_Integration-164B8C?style=flat-square"/>
+</p>
+
+### Software & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,flask,git,github,linux&theme=dark"/>
 </p>
 
 ---
 
-## FEATURED ENGINEERING PROJECTS
+## 04. Selected Engineering Projects
 
-Projects demonstrating the integration of mechanical systems, electronics, embedded programming and intelligent control.
+Projects focused on embedded control, intelligent monitoring, power management and thermal systems.
 
-### 01. VoltEdge
+### 01 / VoltEdge
+
 **Adaptive EV Charging and Grid Load Management System**
 
-<p>
-  <img src="https://img.shields.io/badge/DOMAIN-EV_Charging-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/PLATFORM-ESP32-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/STATUS-Prototype-238636?style=flat-square" />
-</p>
+<sub>EV TECHNOLOGY · POWER MONITORING · EMBEDDED CONTROL</sub>
 
 Developed an adaptive EV charging prototype focused on grid load management.
 
-**Engineering implementation**
-- ESP32-based electrical power monitoring using INA219.
-- Threshold-based charging control using a MOSFET module.
-- Evaluated hardware alternatives and component costs.
+**Engineering contributions**
+
+- Implemented ESP32-based power monitoring using the INA219 sensor.
+- Developed threshold-based charging control through a MOSFET module.
+- Evaluated hardware alternatives and estimated component costs.
 - Tested system response using 12V DC fan and LED loads.
 
-**Technology:** ESP32 · INA219 · MOSFET · IoT
+**Technology stack**
+
+`ESP32` `INA219` `MOSFET` `IoT`
+
+```mermaid
+flowchart LR
+    A["Power Supply"] --> B["INA219"]
+    B --> C["ESP32 Controller"]
+    C --> D["Control Logic"]
+    D --> E["MOSFET Switching"]
+    E --> F["Charging Load"]
+
+    style C fill:#123B70,color:#fff,stroke:#58A6FF
+```
 
 ---
 
-### 02. AeroVent
+### 02 / AeroVent
+
 **Intelligent Demand-Controlled Exhaust Ventilation System**
 
-<p>
-  <img src="https://img.shields.io/badge/DOMAIN-Intelligent_Ventilation-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/CONTROL-Adaptive-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/PLATFORM-ESP32-238636?style=flat-square" />
-</p>
+<sub>INTELLIGENT CONTROL · ENVIRONMENTAL MONITORING · IoT</sub>
 
 Developed an intelligent exhaust ventilation prototype using humidity-level and rate-of-rise detection to automate fan operation.
 
-**Engineering implementation**
-- Adaptive humidity recovery logic for demand-controlled ventilation.
-- Sensor-failure detection with fail-safe fan control.
-- INA219-based electrical parameter monitoring.
-- ESP32 integration with a real-time Node.js and Socket.IO dashboard.
-- Environmental data, system status and fault notifications.
+**Engineering contributions**
 
-**Technology:** ESP32 · DHT22 · INA219 · MOSFET · Node.js · Socket.IO
+- Implemented humidity-level and rate-of-rise detection.
+- Developed adaptive humidity recovery logic.
+- Integrated sensor-failure detection with fail-safe fan control.
+- Implemented INA219-based electrical monitoring.
+- Connected ESP32 with a Node.js and Socket.IO dashboard for real-time environmental data, system status and fault notifications.
+
+**Technology stack**
+
+`ESP32` `DHT22` `INA219` `MOSFET` `Node.js` `Socket.IO`
+
+```mermaid
+flowchart TD
+    A["DHT22 Sensor"] --> C["ESP32 Controller"]
+    B["INA219 Monitoring"] --> C
+    C --> D["Humidity Analysis"]
+    D --> E["Adaptive Control"]
+    E --> F["Exhaust Fan"]
+    C --> G["Node.js Dashboard"]
+    G --> H["Real-time Monitoring"]
+
+    style C fill:#123B70,color:#fff,stroke:#58A6FF
+    style E fill:#164B8C,color:#fff,stroke:#58A6FF
+```
 
 ---
 
-### 03. STEMS
+### 03 / STEMS
+
 **Smart Thermal Energy Management System**
 
-<p>
-  <img src="https://img.shields.io/badge/DOMAIN-Thermal_Management-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/CONTROL-Predictive-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/PLATFORM-ESP32-238636?style=flat-square" />
-</p>
+<sub>THERMAL MANAGEMENT · PREDICTIVE ANALYSIS · EMBEDDED SYSTEMS</sub>
 
-Developed an intelligent battery thermal management system with predictive temperature analysis and dynamic cooling control.
+Developed an intelligent battery thermal management system that monitors temperature, current and voltage in real time.
 
-**Engineering implementation**
-- Real-time temperature, current and voltage monitoring.
-- Temperature-trend analysis and temperature-rise prediction.
-- Time-to-overheat estimation.
-- Dynamic fan and Peltier cooling control.
-- Real-time web dashboard for sensor visualization, predictive insights and cooling-status monitoring.
+**Engineering contributions**
 
-**Technology:** ESP32 · Node.js · Socket.IO · HTML · CSS · JavaScript
+- Implemented real-time temperature, current and voltage monitoring.
+- Developed temperature-trend analysis and temperature-rise prediction.
+- Implemented time-to-overheat estimation.
+- Integrated dynamic fan and Peltier cooling control.
+- Developed a real-time dashboard for sensor visualization, predictive insights and cooling-status monitoring.
+
+**Technology stack**
+
+`ESP32` `Node.js` `Socket.IO` `HTML` `CSS` `JavaScript`
+
+```mermaid
+flowchart TD
+    A["Temperature / Current / Voltage"] --> B["ESP32 Monitoring"]
+    B --> C["Temperature Trend Analysis"]
+    C --> D["Rise Prediction"]
+    D --> E["Time-to-Overheat Estimation"]
+    E --> F["Cooling Control"]
+    F --> G["Fan / Peltier"]
+    B --> H["Web Dashboard"]
+
+    style B fill:#123B70,color:#fff,stroke:#58A6FF
+    style E fill:#164B8C,color:#fff,stroke:#58A6FF
+```
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## 05. Professional Experience
 
 ### Royal Enfield
+
 **Industrial Maintenance Intern | May 2026 – June 2026**
 
 Chennai, India
@@ -172,6 +234,7 @@ Chennai, India
 - Worked on a Smart Industrial Air Compressor Monitoring and Alert System using LoRa communication, focused on pressure monitoring and abnormal-condition alerts.
 
 ### MAS Robotics Pvt. Ltd.
+
 **Robotics & Automation Intern | June 2025 – July 2025**
 
 Chennai, India
@@ -179,78 +242,79 @@ Chennai, India
 - Contributed to an automated tyre-painting robot project.
 - Worked on pick-and-place mechanisms, simulation, electrical panel building and mechanical assembly.
 - Designed components using SolidWorks.
-- Gained hands-on exposure to industrial sensors, electrical drives and device integration.
+- Gained practical exposure to industrial sensors, electrical drives and device integration.
 
 ---
 
-## ACHIEVEMENTS
+## 06. Achievements
 
 <table>
 <tr>
-<th>Recognition</th>
-<th>Achievement</th>
-</tr>
-<tr>
-<td><strong>EcoVerse 2026 – VIT Chennai</strong></td>
-<td>🥈 Second Prize – Developed an ML-based Activity Recognition System among national-level participants.</td>
-</tr>
-<tr>
-<td><strong>Central India Hackathon (CIH 3.0)</strong></td>
-<td>Top 7 – SDG 3 track, among 800+ teams across SDG 3 and SDG 9 categories.</td>
+<td width="50%" align="center">
+<h3>🥈 2nd Prize</h3>
+<strong>EcoVerse 2026</strong>
+<br/>
+VIT Chennai
+<br/><br/>
+ML-based Activity Recognition System
+</td>
+<td width="50%" align="center">
+<h3>Top 7</h3>
+<strong>Central India Hackathon 3.0</strong>
+<br/>
+SDG 3 Track
+<br/><br/>
+Among 800+ participating teams
+</td>
 </tr>
 </table>
 
 ---
 
-## EDUCATION
+## 07. Education
 
 | Qualification | Institution | Period |
 |---|---|---|
 | B.E. Mechatronics Engineering | Chennai Institute of Technology | 2024 – Present |
 | Diploma in Programming – BS Degree | IIT Madras | 2025 – Present |
 
-**Current B.E. CGPA: 8.72**
+**Current CGPA:** 8.72
 
 ---
 
-## COURSES & CERTIFICATIONS
+## 08. Courses & Certifications
 
-| Provider | Course / Certification | Score |
+| Provider | Course | Score / Status |
 |---|---|---|
 | NPTEL | Introduction to the Internet of Things | 76% |
 | NPTEL | Cloud Computing | 68% |
 | NPTEL | Microrobotics | 75% |
-| Udemy | Siemens S7-1200 PLC & HMI using TIA Portal | — |
+| Udemy | Siemens S7-1200 PLC & HMI using TIA Portal | Completed |
 | MathWorks | MATLAB Onramp | Completed |
 | MathWorks | Simulink Onramp | Completed |
-| IIT Madras | BS in Data Science and Applications – Foundation Level | Completed |
+| IIT Madras | BS Foundation Level | Completed |
 
 ---
 
-## GITHUB ACTIVITY
+## 09. Current Technical Focus
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore1309&bg_color=0B1220&color=58A6FF&line=2685D8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore1309&show_icons=true&hide_border=true&bg_color=0B1220&title_color=58A6FF&icon_color=2685D8&text_color=C9D1D9&include_all_commits=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1309&layout=compact&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="165" alt="Most used programming languages" />
-</p>
-
+- **Robotics:** ROS 2, motion planning and simulation.
+- **Intelligent Systems:** Computer vision and machine learning.
+- **Automation:** PLC programming and industrial control.
+  
 ---
 
-## CONNECT
+## 10. Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kishoregovindan913">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kishore1309">
-    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kishoreg763@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Kishore1309">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -259,5 +323,5 @@ Chennai, India
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:168AAD,50:123B70,100:071A35&height=110&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:168AAD,50:123B70,100:071A35&height=100&section=footer" width="100%" alt="Blue engineering footer"/>
 </p>

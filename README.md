@@ -1,77 +1,77 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C3D68,100:2878B5&height=180&section=header&text=KISHORE%20GOVINDAN&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=MECHATRONICS%20%7C%20ROBOTICS%20%7C%20INTELLIGENT%20SYSTEMS&descAlignY=60&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090919,50:25165A,100:087CA7&height=190&section=header&text=KISHORE%20GOVINDAN&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MECHATRONICS%20ENGINEER%20IN%20PROGRESS&descSize=13&descAlignY=60" width="100%"/>
 
-### Building robots, breaking code, fixing both, and calling it engineering. 😎
+### 🎮 Hey, welcome to my corner of GitHub!
 
-</div>
-
----
-
-## 👨‍💻 Who Am I?
-
-I'm a B.E. Mechatronics Engineering student at Chennai Institute of Technology, also pursuing a Diploma in Programming at IIT Madras.
-
-Interested in robotics, automation, embedded systems and intelligent engineering applications.
-
----
-
-## 🔭 Currently Working On
-
-- 🤖 **ROS 2 Vision-Based Sorting Robot** — robotic modelling and simulation using Gazebo.
-- ⚙️ Exploring robot kinematics, URDF/Xacro and autonomous systems.
-- 🧠 Learning to integrate AI/ML into practical engineering applications.
-
----
-
-## 🛠️ Tools & Technologies
-
-<div align="center">
-
-### Programming
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-
-### Robotics & Development
-<img src="https://skillicons.dev/icons?i=ros,opencv,linux,git,github" />
-
-### Embedded & Web
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,html,css,nodejs,flask" />
-
-</div>
-
-**Also working with:** SolidWorks · Creo · MATLAB · Simulink · Siemens TIA Portal · PLC · Gazebo.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kishore1309&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1309&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=Kishore1309&theme=tokyonight&hide_border=true" width="70%"/>
+Building robots, breaking code, fixing both, and calling it engineering. 😎
 
 </div>
 
 ---
 
-## 🤝 How to Reach Me
+### 👾 About Me
+
+Just a mechatronics enthusiast who enjoys turning crazy ideas into working projects.
+
+I spend my time experimenting with robotics, automation, embedded systems and software. Currently learning, building, debugging and occasionally wondering why the code worked five minutes ago. 
+
+---
+
+### 🚀 Projects
+
+| Project | What it's about |
+|:--|:--|
+| ⚡ **VoltEdge** | Adaptive EV Charging & Grid Load Management |
+| 🌬️ **AeroVent** | Intelligent Demand-Controlled Ventilation |
+| 🌡️ **STEMS** | Smart Thermal Energy Management System |
+| 🤖 **Vision Sorting Robot** | ROS 2-based robotic vision sorting simulation *(in progress)* |
+
+---
+
+### 🧰 My Loadout
 
 <div align="center">
 
+**Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
+
+**Robotics & Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=ros,opencv,linux,git,github"/>
+
+**Embedded & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,html,css,nodejs"/>
+
+</div>
+
+**Other tools:** SolidWorks · Creo · MATLAB · Simulink · Gazebo · Siemens TIA Portal · PLC
+
+---
+
+### 📡 Find Me Online
+
+<div align="center">
+
+<a href="mailto:kishoreg763@gmail.com">
+<img src="https://img.shields.io/badge/Email-Drop%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/kishoregovindan913/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Kishore1309">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Player%201-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+</div>
 
-*Always building. Always debugging. Always learning.*
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2878B5,50:1C3D68,100:0B132B&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:087CA7,50:25165A,100:090919&height=100&section=footer" width="100%"/>
+
+**GG! Thanks for stopping by.** 👾
 
 </div>

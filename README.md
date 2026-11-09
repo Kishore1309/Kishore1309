@@ -12,15 +12,15 @@ Hey! I'm a Mechatronics student who enjoys building things that move, think and 
 Into robotics, automation, embedded systems and turning random ideas into real projects.
 
 ```bash
-$ whoami
+$ who_am_i
 mechatronics_student
 
 $ current_status
 learning | building | debugging
 
 $ motto
-if (it_works) {
-    don't_touch_it();
+while (curious) {
+    keep_building();
 }
 ```
 

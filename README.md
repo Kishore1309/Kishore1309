@@ -27,46 +27,34 @@ while (curious) {
 ### `~/projects`
 
 
-<h3>~/projects</h3>
+### `~/projects`
 
-<table>
-<tr>
-<td width="50%">
-<h3>⚡ VoltEdge</h3>
-Adaptive EV Charging & Grid Load Management
+```bash
+kishore@dev-space:~$ ls ./projects
 
-<code>ESP32</code> <code>INA219</code> <code>IoT</code>
+📁 VoltEdge/
+   ├── Adaptive EV Charging & Grid Load Management
+   ├── ESP32 | INA219 | IoT
+   └── STATUS: PROTOTYPE
 
-🟢 Prototype
-</td>
-<td width="50%">
-<h3>🌬️ AeroVent</h3>
-Intelligent Demand-Controlled Ventilation
+📁 AeroVent/
+   ├── Intelligent Demand-Controlled Ventilation
+   ├── ESP32 | DHT22 | Node.js
+   └── STATUS: PROTOTYPE
 
-<code>ESP32</code> <code>DHT22</code> <code>Node.js</code>
+📁 STEMS/
+   ├── Smart Thermal Energy Management
+   ├── ESP32 | IoT | Node.js
+   └── STATUS: PROTOTYPE
 
-🟢 Prototype
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🌡️ STEMS</h3>
-Smart Thermal Energy Management System
+📁 Vision-Sorting/
+   ├── ROS 2 Robotic Vision Sorting Simulation
+   ├── ROS 2 | Gazebo | Python
+   └── STATUS: IN PROGRESS
 
-<code>ESP32</code> <code>IoT</code> <code>Node.js</code>
+kishore@dev-space:~$ _
+```
 
-🟢 Prototype
-</td>
-<td width="50%">
-<h3>🤖 Vision Sorting</h3>
-ROS 2-Based Robotic Vision Sorting Simulation
-
-<code>ROS 2</code> <code>Gazebo</code> <code>Python</code>
-
-🟡 In Progress
-</td>
-</tr>
-</table>
 
 
 ### `~/tech-stack`

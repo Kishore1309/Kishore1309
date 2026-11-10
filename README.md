@@ -7,9 +7,7 @@
 
 ### `~/about-me`
 
-Hey! I'm a Mechatronics student who enjoys building things that move, think and occasionally refuse to work. 😅
-
-Into robotics, automation, embedded systems and turning random ideas into real projects.
+Hey, I'm Kishore! Somewhere between a CAD model, a circuit board and a few hundred lines of code, you'll probably find me — exploring robotics, automation and everything that makes machines smarter.
 
 ```bash
 $ who_am_i

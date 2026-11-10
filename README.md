@@ -25,10 +25,6 @@ while (curious) {
 ```
 
 ### `~/projects`
-
-
-### `~/projects`
-
 ```bash
 kishore@dev-space:~$ ls ./projects
 

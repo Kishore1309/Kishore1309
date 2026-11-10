@@ -26,12 +26,48 @@ while (curious) {
 
 ### `~/projects`
 
-| Project | Description | Status |
-|---|---|---|
-| ⚡ VoltEdge | Adaptive EV charging system | Prototype |
-| 🌬️ AeroVent | Intelligent ventilation system | Prototype |
-| 🌡️ STEMS | Smart thermal management | Prototype |
-| 🤖 Vision Sorting | ROS 2 robotic sorting simulation | In progress |
+
+<h3>~/projects</h3>
+
+<table>
+<tr>
+<td width="50%">
+<h3>⚡ VoltEdge</h3>
+Adaptive EV Charging & Grid Load Management
+
+<code>ESP32</code> <code>INA219</code> <code>IoT</code>
+
+🟢 Prototype
+</td>
+<td width="50%">
+<h3>🌬️ AeroVent</h3>
+Intelligent Demand-Controlled Ventilation
+
+<code>ESP32</code> <code>DHT22</code> <code>Node.js</code>
+
+🟢 Prototype
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🌡️ STEMS</h3>
+Smart Thermal Energy Management System
+
+<code>ESP32</code> <code>IoT</code> <code>Node.js</code>
+
+🟢 Prototype
+</td>
+<td width="50%">
+<h3>🤖 Vision Sorting</h3>
+ROS 2-Based Robotic Vision Sorting Simulation
+
+<code>ROS 2</code> <code>Gazebo</code> <code>Python</code>
+
+🟡 In Progress
+</td>
+</tr>
+</table>
+
 
 ### `~/tech-stack`
 

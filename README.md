@@ -69,14 +69,4 @@ kishore@dev-space:~$ _
 <a href="https://www.linkedin.com/in/kishoregovindan913/"><img src="https://img.shields.io/badge/LINKEDIN-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Kishore1309"><img src="https://img.shields.io/badge/GITHUB-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</div>
 
-<h3 align="center">~/github-activity</h3>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58F7A5/Kishore1309"
-     alt="Kishore's GitHub contribution graph"
-     width="100%"/>
-
-</div>
